@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DjangoProject/.idea/DjangoProject.iml" filepath="$PROJECT_DIR$/../DjangoProject/.idea/DjangoProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NovBatchLidiyaMaam.iml" filepath="$PROJECT_DIR$/.idea/NovBatchLidiyaMaam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NovemberBatch/.idea/NovemberBatch.iml" filepath="$PROJECT_DIR$/../NovemberBatch/.idea/NovemberBatch.iml" />
+    </modules>
+  </component>
+</project>
